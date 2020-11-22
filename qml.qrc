@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PanelGraph.qml</file>
+        <file>CircleGauge.qml</file>
+        <file>GaugePanel.qml</file>
+        <file>ConfigPanel.qml</file>
+    </qresource>
+</RCC>
